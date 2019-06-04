@@ -27,3 +27,12 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+
+
+ /.gitignore
+        /HEAD
+        /config
+        /description
+        /hooks/
+        /info/
