@@ -10,7 +10,9 @@ public class Devtools_Demo {
 	
 	@RequestMapping("/")
 	public String message() {
-		return "Welcome to Spring Boot";
+		System.out.println("excluding dev tools3");
+		return "Welcome to Spring Boot111112222223344444555556678999";
+		
 	}
 
 }
